@@ -122,7 +122,9 @@ header a:hover{
 	width:250px;
 			
 }
-
+#newsletter .spacer {
+			height: 10px;
+		}
 #newsletter input[placeholder="Enter Email..."]{
 	font-size:16px;
 }
