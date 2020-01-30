@@ -128,7 +128,9 @@ header a:hover{
 #newsletter input[placeholder="Enter Email..."]{
 	font-size:16px;
 }
-
+#newsletter button {
+	width:280px;
+}
 #boxes{
 	margin-top:20px;
 }
