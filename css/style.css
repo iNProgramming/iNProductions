@@ -226,6 +226,7 @@ footer{
 		}
 		header ul {
 			margin-top: -10px;
+			align-items: center;
 		}
 		header #branding{
 			align-items: center;
