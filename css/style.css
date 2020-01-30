@@ -228,7 +228,7 @@ footer{
 			margin-top: -10px;
 		}
 		header #branding{
-			margin-left:15px;
+			align-items: center;
 		}
 		header nav{
 			padding-top:5px;
@@ -240,6 +240,29 @@ footer{
 			width: 100%;
 			margin: auto;
 	        }
+	         #newsletter form{
+			float:none;
+			padding-top:15px;
+		}
+		
+		#newsletter h1{
+			float:none;
+			text-align: center;
+		}
+		
+		#newsletter input[type="email"]{
+			padding:5px;
+			height:25px;
+			width:86%;
+			margin:auto;		
+		}
+		#newsletter .spacer {
+			height: 10px;
+		}
+	        #newsletter button {
+			width: 90%;
+			margin: auto;
+		}
 		#boxes .box{
 			margin-top:10px;
 			width:90%;
